@@ -1,0 +1,10 @@
+﻿  add_patient.cpp
+  doctor.cpp
+  doctor_queues.cpp
+  list.cpp
+  list_4_patients.cpp
+  main.cpp
+  patient.cpp
+  queue.cpp
+  Generando código...
+  ProyectoFinal.vcxproj -> C:\Users\gabri\source\repos\ProyectoFinal\x64\Debug\ProyectoFinal.exe
